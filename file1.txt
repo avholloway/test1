@@ -1,2 +1,2 @@
 This is the initial line in the file
-This line came from OUR(change2) c-line2 branch
+This LINE(change1) came from OUR(change2) c-line2 branch
